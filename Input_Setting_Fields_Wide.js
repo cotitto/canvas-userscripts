@@ -4,7 +4,7 @@
 // @version      1.1
 // @include      https://*.instructure.com/courses/*/settings
 // @description  override wide inputs
-// @author       X.COTTO
+// @author       XCT
 // @grant        none
 // ==/UserScript==
 
