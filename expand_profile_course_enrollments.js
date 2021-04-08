@@ -10,7 +10,6 @@
 
 (function() {
   'use strict';
-    //Expand Course Enrollment List while in Profile//
+    //Expand Course Enrollment List while in Canvas Profile//
 $(".unstyled_list.context_list").css({"max-height":"800px"});
-
 })();
