@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Expand Profile Course Enrollment List while in Profile
+// @name         Expand Profile Course Enrollment List while in Canvas Profile
 // @namespace    https://github.com/cotitto
 // @version      1
 // @include      https://*.instructure.com/accounts/1/users/*
