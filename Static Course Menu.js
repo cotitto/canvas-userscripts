@@ -11,6 +11,6 @@
 (function() {
     'use strict';
     $('.with-left-side, #left-side').css('position', 'sticky')
-    $('.ic-Layout-contentMain').css('margin-top', '-1140px')
+    $('.ic-Layout-contentMain').css('margin-top', '-1000px')
     $('#left-side').css({"padding-top": "20px", "margin-left": "-200px"});
 })();
